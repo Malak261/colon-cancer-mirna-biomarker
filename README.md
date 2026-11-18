@@ -1,6 +1,7 @@
 # Machine Learning-Guided Discovery of miRNA Biomarkers in Colon Cancer
 
 Bachelor's thesis project, German University in Cairo (2026)
+
 **Author:** Malak Wael Talaat · **Supervisor:** Dr. Mohamed Hamed
 
 ## Overview
